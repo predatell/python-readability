@@ -11,7 +11,7 @@ setup(
     license="Apache License 2.0",
     url="http://github.com/gfxmonk/python-readability",
     packages=[
-        "readability",
+        "python_readability",
     ],
     classifiers=[
         "Environment :: Web Environment",
